@@ -1,0 +1,14 @@
+# README.md
+This readme is about **mysite**.
+----------------------------------------------------------
+Using Clone to write and push the code to Github.
+I am however using *Code Master* to edit the code intially. However 
+there must be a better way to do it.
+## Things to do
+1. Find better way to code
+2. Look at other README's and get ideas
+3. push changes often
+
+> "Logic gets you to point A and B. Imagination takes you everywhere." -Albert Einstien<
+
+<code>http-server [PATH] [OPTION]

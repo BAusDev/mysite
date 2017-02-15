@@ -1,5 +1,10 @@
 # README.md
-This readme is about **mysite**.
+
+This readme follows the creation of "mysite".
+ 
+benjaminaustinfry.com
+
+
 ----------------------------------------------------------
 Using Clone to write and push the code to Github.
 I am however using *Code Master* to edit the code intially. However 

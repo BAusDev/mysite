@@ -17,3 +17,10 @@ there must be a better way to do it.
 > "Logic gets you to point A and B. Imagination takes you everywhere." -Albert Einstien<
 
 <code>http-server [PATH] [OPTION]
+
+----------------------------------------------------------------------
+# 3.18.17
+
+Added all the files from CODE PRO. Check commits to see exactly what I replaced.
+All files are uploaded to [Github](github)  
+[Benjamin Fry](https://benjaminaustinfry.com)
